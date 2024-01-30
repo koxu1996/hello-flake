@@ -1,5 +1,5 @@
 # hello-flake
-Simple nix flake demonstrating a basic usage of a flake in another flake.
+.Simple nix flake demonstrating a basic usage of a flake in another flake.
 
 The flake is in the file [`flake.nix`](./flake.nix) and is shown here for
 convenience:
